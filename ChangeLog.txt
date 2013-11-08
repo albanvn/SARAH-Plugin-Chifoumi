@@ -1,0 +1,17 @@
+********************************************
+* Plugin Chifoumi for SARAH project        *
+* http://encausse.wordpress.com/s-a-r-a-h/ *
+* Author:Alban Vidal-Naquet                *
+* Email:alban@albanvn.net                  *
+********************************************
+
+*****************
+* Changelog.txt *
+*****************
+
+
+V1.0 - 07/11/2013
+-----------------
+  Initial release
+  
+

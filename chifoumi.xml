@@ -1,0 +1,20 @@
+﻿<grammar version="1.0" xml:lang="fr-FR" mode="voice" root="ruleChifoumi" xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics/1.0">
+  <rule id="ruleChifoumi" scope="public">
+    <example>Sarah, On joue a chifoumi !</example>
+    <tag>out.action=new Object();</tag>
+    <item>Sarah</item>
+    <one-of>
+      <item>pierre<tag>out.action.choice="pierre";</tag></item>
+      <item>caillou<tag>out.action.choice="pierre";</tag></item>
+      <item>feuille<tag>out.action.choice="feuille";</tag></item>
+      <item>papier<tag>out.action.choice="feuille";</tag></item>
+      <item>puit<tag>out.action.choice="puits";</tag></item>
+      <item>ciseau<tag>out.action.choice="ciseau";</tag></item>
+      <item>Quel est le score<tag>out.action.choice="score";</tag></item>
+      <item>On joue à chifoumi<tag>out.action.choice="start";</tag></item>
+    </one-of>
+    <tag>out.action._attributes.uri="http://127.0.0.1:8080/sarah/chifoumi";</tag>
+  </rule> 
+<!-- Automatic Generation § -->
+<!-- § Automatic Generation -->
+</grammar>

@@ -1,0 +1,9 @@
+{
+  "modules" : { 
+    "Chifoumi"  : {
+      "description": "SARAH joue à chifoumi",
+	  "win_score": "5",
+      "version": "1.0"
+    }
+  }
+}

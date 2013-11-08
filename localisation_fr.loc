@@ -1,0 +1,14 @@
+SIGNS#pierre,ciseau,puit,feuille
+LETSPLAY#Très bien, jouons. C'est à vous de commencer.
+YOUWIN#Vous gagnez pour le moment.
+IWIN#Je gagne pour le moment.
+EQUAL1#Nous somme à égalité.
+EQUAL2#%S1% partout.
+YOUWINFINAL#Vous avez gagné la partie, %S1% à %S2%, bravo.
+IWINFINAL#J'ai gagné la partie, %S1% à %S2%.
+SCOREIS#Le score est de %S1% pour vous et %S2% pour moi.
+SCOREIS2#%S1% à %S2% pour vous.
+SCOREIS3#%S1% à %S2% pour moi.
+RESULT1#Et moi,. %CHOICE%. . . . , égalité, on recommence,.
+RESULT2#Et moi,. %CHOICE%. . . ., vous gagnez la manche,.
+RESULT3#Et moi,. %CHOICE%. . . ., je gagne la manche,.
